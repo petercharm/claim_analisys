@@ -1,7 +1,6 @@
 ## Exploratory Data Analysis Challenge
 
 This repository include
-
 <br>|-> data/claims_sample_data - Sheet1.csv	- original dataset
 <br>|-> README.MD 					- level-up description of the project
 <br>|-> claim_analysis.ipynb			- Jupyter notebook code & analysis & results
@@ -11,6 +10,6 @@ This repository include
 
 
 Use 'claim_analysis.ipynb' to check-up the solution
-Use other files to share results
+<br>Use other files to share results
 
 Enjoy!
